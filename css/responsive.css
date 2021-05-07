@@ -19,6 +19,7 @@
 		width: 200px;
 	}
 	.banner1 {
+		background-repeat: no-repeat;
 		margin-top: 60px;
 	}
 	h1 {
@@ -62,9 +63,6 @@
 	.brdr {
 		border: none;
 	}
-	.banner1 {
-		padding-top: 105px;
-	}
 	.p-d {
 		padding-top: 40px;
 	}
@@ -105,7 +103,7 @@
 	    text-align: center;
 	}
 	.banner1 {
-		padding-top: 100px;
+		padding-top: 130px;
 		padding-bottom: 100px;
 	}
 	.banner1 {
