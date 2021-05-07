@@ -53,6 +53,10 @@
 	.container {
 		max-width: 90%;
 	}
+	.banner1 {
+		background-repeat: no-repeat;
+		margin-top: 50px;
+	}
 }
 @media(max-width: 575px) {
 	.brdr {
